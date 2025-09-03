@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Desktop\SurreyUni\Project ressources\gamma-ray-detector\SiPM Bias\SiPM Bias.kicad_sch</source>
+    <date>29/08/2023 12:15:42</date>
+    <tool>Eeschema 7.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>SiPM Board</title>
+        <company/>
+        <rev>2.0</rev>
+        <date>2023-08-28</date>
+        <source>SiPM Bias.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/281/1/GRT188R61H225KE13_01A-3158579.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.2uF+/-10% 50V X5R 0603</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Price">£0.51</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRT188R61H225KE13D?qs=drgMNd%252BkGPOTrTm4FN7APg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.2uF+/-10% 50V X5R 0603"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Price" value="£0.51"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRT188R61H225KE13D?qs=drgMNd%252BkGPOTrTm4FN7APg%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66912fda-1abb-431c-b4e8-b0a0591520df</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/281/1/GRT188R61H225KE13_01A-3158579.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.2uF+/-10% 50V X5R 0603</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Price">£0.51</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRT188R61H225KE13D?qs=drgMNd%252BkGPOTrTm4FN7APg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.2uF+/-10% 50V X5R 0603"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Price" value="£0.51"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRT188R61H225KE13D?qs=drgMNd%252BkGPOTrTm4FN7APg%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>541794b2-7fc6-461f-b5fa-5fa060021d5b</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 10nF+/-10% 50V X7R </field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Price">£0.077</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10B103KB8NNWC?qs=CveC9HkIcgkJ5qjXRke38Q%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 10nF+/-10% 50V X7R "/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Price" value="£0.077"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10B103KB8NNWC?qs=CveC9HkIcgkJ5qjXRke38Q%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d263f73-b8be-4a5f-b757-89fca40d79ba</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF+/-10% 50V X7R 0603</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Price">£0.23</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10B104KB8NNNC?qs=349EhDEZ59rvGc2rLwVOdA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF+/-10% 50V X7R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Price" value="£0.23"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10B104KB8NNNC?qs=349EhDEZ59rvGc2rLwVOdA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9de55b8d-7a83-40e5-a7b8-71d4db36ee4f</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 10nF+/-10% 50V X7R </field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Price">£0.077</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10B103KB8NNWC?qs=CveC9HkIcgkJ5qjXRke38Q%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 10nF+/-10% 50V X7R "/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Price" value="£0.077"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10B103KB8NNWC?qs=CveC9HkIcgkJ5qjXRke38Q%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4adedb30-3b7f-463e-b8d2-58c79c856827</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/585/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 10pF+/-5% 50V</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Price">£0.077</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10C100JB8NNNC?qs=349EhDEZ59oiQHnsqhYH%2Fg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 10pF+/-5% 50V"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Price" value="£0.077"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10C100JB8NNNC?qs=349EhDEZ59oiQHnsqhYH%2Fg%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17e9b0f8-4428-4d4e-986c-a3bb559b22b0</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_SiPM</value>
+      <footprint>OptoDevice:MICROFC-60035</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/308/1/MICROC_SERIES_D-2315622.pdf</datasheet>
+      <fields>
+        <field name="Description">Photodiodes C-SERIES 6MM 35U MLP</field>
+        <field name="Manufacturer">onsemi</field>
+        <field name="Price">£26.94</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/onsemi/MICROFC-60035-SMT-TR?qs=byeeYqUIh0NL1tLUEc9yUw%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="D_SiPM" description="Silicon photomultiplier"/>
+      <property name="Description" value="Photodiodes C-SERIES 6MM 35U MLP"/>
+      <property name="Manufacturer" value="onsemi"/>
+      <property name="Price" value="£26.94"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/onsemi/MICROFC-60035-SMT-TR?qs=byeeYqUIh0NL1tLUEc9yUw%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Silicon photomultiplier"/>
+      <property name="ki_keywords" value="SiPM MPPC SPAD photon counting"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4df66799-e650-45cc-ab68-24d9e9fb259f</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_Coaxial_Power</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_132134-14_Vertical</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/18/1/amphs06465_1-2259696.pdf</datasheet>
+      <fields>
+        <field name="Description">Coaxial Connectors SMA</field>
+        <field name="Manufacturer">Amphenol RF</field>
+        <field name="Price">£4.74</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Amphenol-RF/132134?qs=b8dDPpdgesvQEpS4IQp3aA%3D%3D&amp;gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4lBATUHEJ-A1lI_CtzIbZj8f2kCHCU9sMC5ht-itRUGHtAeb_x3OF8aAmPBEALw_wcB</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Description" value="Coaxial Connectors SMA"/>
+      <property name="Manufacturer" value="Amphenol RF"/>
+      <property name="Price" value="£4.74"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Amphenol-RF/132134?qs=b8dDPpdgesvQEpS4IQp3aA%3D%3D&amp;gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4lBATUHEJ-A1lI_CtzIbZj8f2kCHCU9sMC5ht-itRUGHtAeb_x3OF8aAmPBEALw_wcB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b33f4ec9-88a3-4779-85e2-6562211ee97a</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_132134-14_Vertical</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/18/1/amphs06465_1-2259696.pdf</datasheet>
+      <fields>
+        <field name="Description">Coaxial Connectors SMA</field>
+        <field name="Manufacturer">Amphenol RF</field>
+        <field name="Price">£4.74</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Amphenol-RF/132134?qs=b8dDPpdgesvQEpS4IQp3aA%3D%3D&amp;gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4lBATUHEJ-A1lI_CtzIbZj8f2kCHCU9sMC5ht-itRUGHtAeb_x3OF8aAmPBEALw_wcB</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Description" value="Coaxial Connectors SMA"/>
+      <property name="Manufacturer" value="Amphenol RF"/>
+      <property name="Price" value="£4.74"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Amphenol-RF/132134?qs=b8dDPpdgesvQEpS4IQp3aA%3D%3D&amp;gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4lBATUHEJ-A1lI_CtzIbZj8f2kCHCU9sMC5ht-itRUGHtAeb_x3OF8aAmPBEALw_wcB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f888773e-7da3-4cfd-92ad-d04e0356d5bc</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>MMBT5088LT1G</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-3</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/308/1/MMBT5088LT1_D-2316353.pdf</datasheet>
+      <fields>
+        <field name="Description">Bipolar Transistors - BJT 50mA 35V NPN</field>
+        <field name="Manufacturer">onsemi</field>
+        <field name="Price">£0.32</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/onsemi/MMBT5088LT1G?qs=HVbQlW5zcXW4Her9wnPvIg%3D%3D</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="Description" value="Bipolar Transistors - BJT 50mA 35V NPN"/>
+      <property name="Manufacturer" value="onsemi"/>
+      <property name="Price" value="£0.32"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/onsemi/MMBT5088LT1G?qs=HVbQlW5zcXW4Her9wnPvIg%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a5cc0ab-ac59-4cf8-9449-3d70cfa7b4e0</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>MMBT5088LT1G</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-3</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/308/1/MMBT5088LT1_D-2316353.pdf</datasheet>
+      <fields>
+        <field name="Description">Bipolar Transistors - BJT 50mA 35V NPN</field>
+        <field name="Manufacturer">onsemi</field>
+        <field name="Price">£0.32</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/onsemi/MMBT5088LT1G?qs=HVbQlW5zcXW4Her9wnPvIg%3D%3D</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="Description" value="Bipolar Transistors - BJT 50mA 35V NPN"/>
+      <property name="Manufacturer" value="onsemi"/>
+      <property name="Price" value="£0.32"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/onsemi/MMBT5088LT1G?qs=HVbQlW5zcXW4Her9wnPvIg%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b849fb29-406e-4fc5-85b7-1a573d26d032</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>24k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf</datasheet>
+      <fields>
+        <field name="Description">hin Film Resistors - SMD 1/10W 24K ohm 1% </field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Price">£0.08</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/YAGEO/RT0603FRE0724KL?qs=7HlFk5kntH20KoIFOY1apw%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Description" value="hin Film Resistors - SMD 1/10W 24K ohm 1% "/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Price" value="£0.08"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/YAGEO/RT0603FRE0724KL?qs=7HlFk5kntH20KoIFOY1apw%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa158c2e-5d75-4a9b-9b3e-5547df42f173</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>49.9k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD 1/10W 49.9K ohm .1%</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Price">£0.52</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/YAGEO/RT0603BRD0749K9L?qs=%2Ff7pOCXLR5f6ipgUI5aOHA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Description" value="Thin Film Resistors - SMD 1/10W 49.9K ohm .1%"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Price" value="£0.52"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/YAGEO/RT0603BRD0749K9L?qs=%2Ff7pOCXLR5f6ipgUI5aOHA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df768969-8528-4558-9c34-babf3d230dee</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>49.9k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf</datasheet>
+      <fields>
+        <field name="Description">Thin Film Resistors - SMD 1/10W 49.9K ohm .1%</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Price">£0.52</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/YAGEO/RT0603BRD0749K9L?qs=%2Ff7pOCXLR5f6ipgUI5aOHA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Description" value="Thin Film Resistors - SMD 1/10W 49.9K ohm .1%"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Price" value="£0.52"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/YAGEO/RT0603BRD0749K9L?qs=%2Ff7pOCXLR5f6ipgUI5aOHA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a37c7068-d25f-4755-8a03-e0e6f7fb5a8c</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>49.9</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.vishay.com/doc?28773</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD 1/10Watt 49.9ohms 1%</field>
+        <field name="Manufacturer">Vishay / Dale</field>
+        <field name="Price">£0.15</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW060349R9FKEAC?qs=E3Y5ESvWgWOn0QU03v9b8A%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Description" value="Thick Film Resistors - SMD 1/10Watt 49.9ohms 1%"/>
+      <property name="Manufacturer" value="Vishay / Dale"/>
+      <property name="Price" value="£0.15"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW060349R9FKEAC?qs=E3Y5ESvWgWOn0QU03v9b8A%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16ec03f0-2e43-4f70-91bd-87c22ab5b408</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.vishay.com/doc?20035</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD 1/10watt 10ohms 1%</field>
+        <field name="Manufacturer">Vishay / Dale</field>
+        <field name="Price">£0.077</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW060310R0FKEA?qs=wiO5jjUX9wsETsRLGnHNyA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Description" value="Thick Film Resistors - SMD 1/10watt 10ohms 1%"/>
+      <property name="Manufacturer" value="Vishay / Dale"/>
+      <property name="Price" value="£0.077"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW060310R0FKEA?qs=wiO5jjUX9wsETsRLGnHNyA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ba8d070-a5cf-4196-bd2f-4de8e6b8d66d</tstamps>
+    </comp>
+    <comp ref="TH1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.vishay.com/doc?29056</datasheet>
+      <fields>
+        <field name="Description">NTC (Negative Temperature Coefficient) Thermistors 10Kohms 1% SMD</field>
+        <field name="Manufacturer">Vishay / BC Components</field>
+        <field name="Price">£0.64</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/NTCS0603E3103FLT?qs=%2FWiulJ9oly66lfIcr%252B1Bpw%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="Thermistor" description="Temperature dependent resistor"/>
+      <property name="Description" value="NTC (Negative Temperature Coefficient) Thermistors 10Kohms 1% SMD"/>
+      <property name="Manufacturer" value="Vishay / BC Components"/>
+      <property name="Price" value="£0.64"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/NTCS0603E3103FLT?qs=%2FWiulJ9oly66lfIcr%252B1Bpw%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="Temperature dependent resistor"/>
+      <property name="ki_keywords" value="R res thermistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>272282db-4d02-44bc-b21e-ed5495b1f727</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TPS7B6950DBVR</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&amp;gotoUrl=https://www.ti.com/lit/gpn/tps7b69</datasheet>
+      <fields>
+        <field name="Description">LDO Voltage Regulators 150-mA, 40-V, low-IQ, low-dropout voltage regulator 5-SOT-23 -40 to 105</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Price">£0.65</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7B6950DBVR?qs=zEmsApcVOkVRJYEM7ClWhg%3D%3D</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="TPS7A05285PDBV" description="200-mA Ultra-Low-Iq LDO, 2.85V, SOT-23-5"/>
+      <property name="Description" value="LDO Voltage Regulators 150-mA, 40-V, low-IQ, low-dropout voltage regulator 5-SOT-23 -40 to 105"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Price" value="£0.65"/>
+      <property name="Purchase-URL" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7B6950DBVR?qs=zEmsApcVOkVRJYEM7ClWhg%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SiPM Bias.kicad_sch"/>
+      <property name="ki_description" value="200-mA Ultra-Low-Iq LDO, 2.85V, SOT-23-5"/>
+      <property name="ki_keywords" value="Single Output LDO Low-Iq"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c9888ca-f550-411a-aa6c-e9d0fe55e3c0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial_Power">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial_Power</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_SiPM">
+      <description>Silicon photomultiplier</description>
+      <docs>https://www.mouser.co.uk/datasheet/2/308/1/MICROC_SERIES_D-2315622.pdf</docs>
+      <footprints>
+        <fp>MPPC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D1</field>
+        <field name="Value">D_SiPM</field>
+        <field name="Footprint">OptoDevice:MICROFC-60035</field>
+        <field name="Datasheet">https://www.mouser.co.uk/datasheet/2/308/1/MICROC_SERIES_D-2315622.pdf</field>
+        <field name="Description">Photodiodes C-SERIES 6MM 35U MLP</field>
+        <field name="Manufacturer">onsemi</field>
+        <field name="Price">£26.94</field>
+        <field name="Purchase-URL">https://www.mouser.co.uk/ProductDetail/onsemi/MICROFC-60035-SMT-TR?qs=byeeYqUIh0NL1tLUEc9yUw%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="FO" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+        <pin num="4" name="G" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Thermistor">
+      <description>Temperature dependent resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TH</field>
+        <field name="Value">Thermistor</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="TPS7A05285PDBV">
+      <description>200-mA Ultra-Low-Iq LDO, 2.85V, SOT-23-5</description>
+      <docs>https://www.ti.com/lit/ds/symlink/tps7a05.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">TPS7A05285PDBV</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/tps7a05.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="NC" type="no_connect"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="MMBT3904">
+      <description>0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MMBT3904</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>D:\Kicad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\Kicad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>D:\Kicad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>D:\Kicad\7.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="BIAS">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="TH1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="D1" pin="4" pinfunction="G" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="3" name="Net-(D1-C)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(Q1-B)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="5" name="Net-(Q1-C)">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(Q1-E)">
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(Q2-B)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="TH1" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(Q2-E)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="SiPM">
+      <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="unconnected-(D1-FO-Pad2)">
+      <node ref="D1" pin="2" pinfunction="FO" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(U1-NC-Pad2)">
+      <node ref="U1" pin="2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
