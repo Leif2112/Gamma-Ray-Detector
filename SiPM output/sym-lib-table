@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LM4040AIM3-3_0T")(type "KiCad")(uri "${KIPRJMOD}/symlib/LM4040AIM3-3_0T.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/symlib/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "TLV3201AIDBVR")(type "KiCad")(uri "${KIPRJMOD}/symlib/TLV3201AIDBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "PC104")(type "KiCad")(uri "${KIPRJMOD}/symlib/PC104.kicad_sym")(options "")(descr ""))
+  (lib (name "LT3571EUD#PBF")(type "KiCad")(uri "${KIPRJMOD}/symlib/LT3571EUD#PBF.kicad_sym")(options "")(descr ""))
+)
