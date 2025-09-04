@@ -5,7 +5,7 @@ Open-source SiPM + scintillator gamma-ray detector designed for CubeSat payloads
 > **Project status:** electronics and simulations complete; prototype assembly and environmental testing outstanding.
 
 ## Project output
-- **Space focus:** tailored for CubeSat constraints while remaining useful on the bench.  
+- **Space focus:** tailored for CubeSat constraints.  
 - **Cleaner analogue front-end:** OPA355 TIA selected for faster slew and lower noise than OPA357.  
 - **Stable SiPM bias:** LT3571-based photodiode bias supply with low ripple and temperature compensation strategy.  
 - **Thermal robustness:** overvoltage held constant vs temperature to stabilise SiPM gain/PDE.
